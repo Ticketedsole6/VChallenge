@@ -1,0 +1,3 @@
+To execute any test you can use the command bellow:
+
+k6 run [testName.js]
